@@ -12,17 +12,14 @@ GitHub Repo: [random-script-paung](https://repo.transjakarta.co.id/smpob/random-
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
-```bash
-git clone https://repo.transjakarta.co.id/smpob/random-script-paung
+#### 1. Clone the repository
+`git clone https://repo.transjakarta.co.id/smpob/random-script-paung`
 
-### 2. Switch to working branch
-```bash
-git checkout feature/insert_data_stops_cog
+#### 2. Switch to working branch
+`git checkout feature/insert_data_stops_cog`
 
-### 3. Run the script
-```bash
-python redis_get_stops.py
+#### 3. Run the script
+`python redis_get_stops.py`
 
 ## 🐛 Found a bug?
 
